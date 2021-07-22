@@ -12,7 +12,7 @@ public class Moviment : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        mSpeed = 200f; 
+        mSpeed = 10f; 
         
     }
 
